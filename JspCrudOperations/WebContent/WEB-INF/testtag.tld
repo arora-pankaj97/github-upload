@@ -1,0 +1,11 @@
+<taglib>
+<tlib-version>1.0</tlib-version>
+<jsp-version>2.0</jsp-version>
+<tag>
+<name>header</name>
+
+<tag-class>org.javaexp.tag.MyCustomTag</tag-class>
+</tag>
+
+
+</taglib>
